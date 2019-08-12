@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bcrypt": "^0.8.7",
-    "mongodb": "^2.2.10",
+    "mongodb": "^3.2.7",
     "passwordless-tokenstore": "0.0.10"
   },
   "devDependencies": {
